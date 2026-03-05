@@ -6,8 +6,10 @@ const experiences = [
     role: "Software Engineer",
     company: "Mew Mew Shop BD · Dhaka, Bangladesh",
     detail: `
-      Developed and maintained scalable RESTful APIs for e-commerce platforms.
-      Designed and optimized MySQL database schemas for high-volume Order processing and tracking.
+      Design and Developed scalable RESTful APIs for e-commerce platforms.
+      MySQL database schemas for high-volume Order processing and tracking.
+      Customized Coupon System for promotional campaigns and discounts.
+      Report generation and analytics for sales, inventory, and customer behavior.
       Built internal tools for customer management, order tracking, and inventory management.
       Contributed to a custom secure Payment Gateway for seamless online transactions.
       Monitored live production systems, diagnosed issues, and ensured high availability.
