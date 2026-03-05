@@ -2,6 +2,20 @@
 
 const experiences = [
   {
+    year: "Oct 2025 – Running",
+    role: "Software Engineer",
+    company: "Mew Mew Shop BD · Dhaka, Bangladesh",
+    detail: `
+      Developed and maintained scalable RESTful APIs for e-commerce platforms.
+      Designed and optimized MySQL database schemas for high-volume Order processing and tracking.
+      Built internal tools for customer management, order tracking, and inventory management.
+      Contributed to a custom secure Payment Gateway for seamless online transactions.
+      Monitored live production systems, diagnosed issues, and ensured high availability.
+      Maintained API documentation and managed versioning for consistent integrations.
+      Developed Api For Mobile App and Web App using Laravel and NodeJS.
+    `,
+  },
+  {
     year: "May 2023 – July 2025",
     role: "Software Engineer",
     company: "Flight Expert · Dhaka, Bangladesh",
